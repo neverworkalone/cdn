@@ -1,2 +1,2 @@
 # cdn
-CDN repository for checkcheck
+CDN repository for Never Work Alone
